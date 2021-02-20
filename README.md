@@ -1,1 +1,7 @@
-#gafeitingtf2customcontent
+#咖啡厅暗鬼要塞内容版本同步
+
+你可以使用git来同步本仓库与你本地需要的文件！（仅包括模型、贴图和音效）
+
+[关于 Git 的快速入门](https://help.coding.net/docs/host/git/start.html)
+
+然后你即可克隆本仓库，当然你也可以直接下载，只是会失去同步的功能。
