@@ -10,7 +10,9 @@
 
 然后你即可克隆本仓库，当然你也可以直接下载，只是会失去同步的功能。
 
-使用 Git 克隆或直接下载之后，将materials, models, sound这三个文件夹复制到你的tf/download下。
+相比起Github可以直接下载为zip打包，Coding只可以使用Git来克隆。
+
+使用 Git 克隆之后，将materials, models, sound这三个文件夹复制到你的tf/download下。
 
 有可能是这样子的目录。
 
