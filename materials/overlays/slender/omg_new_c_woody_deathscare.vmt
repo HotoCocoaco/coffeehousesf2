@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/slender/omg_new_c_woody_deathscare"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "30"
+		 } 
+	} 
+}
+

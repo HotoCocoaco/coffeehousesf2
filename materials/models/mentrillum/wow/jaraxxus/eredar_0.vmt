@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mentrillum/wow/jaraxxus/eredar_0"
+	"$bumpmap"    "models/mentrillum/wow/jaraxxus/eredar_0_n"
+
+	$surfaceprop flesh
+	"$phong" "1"
+	"$phongexponent" 15
+	"$phongboost" 1
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongalbedotint" "1"
+}

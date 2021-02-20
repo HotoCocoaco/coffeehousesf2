@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/workshop/player/items/sniper/fall2013_kyoto_rider/fall2013_kyoto_rider_blue_color"
+	"$bumpmap"		"models/workshop/player/items/sniper/fall2013_kyoto_rider/fall2013_kyoto_rider_normal"
+	"$lightwarptexture"		"models/player/pyro/pyro_lightwarp"
+	"$phong"		"1"
+	"$phongexponent"		"5.000000"
+	"$phongboost"		"0.100000"
+	"$phongfresnelranges"		"[.25 .5 1]"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"2.000000"
+	"$rimlightboost"		"1.000000"
+	"$bumpmapalphaphongmask"		"1"
+	"$cloakPassEnabled"		"1"
+	"$color2"		"{255 127 127}"
+}

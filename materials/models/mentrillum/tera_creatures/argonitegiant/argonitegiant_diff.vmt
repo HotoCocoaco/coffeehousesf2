@@ -1,0 +1,21 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/mentrillum/tera_creatures/argonitegiant/argonitegiant_diff"
+	"$bumpmap" "models/mentrillum/tera_creatures/argonitegiant/argonitegiant_norm"
+
+
+	"$selfillummask" "models/mentrillum/tera_creatures/argonitegiant/argonitegiant_illum2"
+	"$selfillum" "1"
+
+	$phong 1
+	$diffuseexp 1
+
+	$phongfresnelranges "[5 1.5 1]"
+	$phongboost 2
+	$phongexponent 12
+	$phongtint "{35 207 211}"
+
+
+
+	"$surfaceprop" "metal"
+}

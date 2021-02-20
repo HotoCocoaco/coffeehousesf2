@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/doom/guardian/guardian"
+	"$bumpmap" 	"models/doom/guardian/guardian_local"
+	"$selfillum" "1"
+}

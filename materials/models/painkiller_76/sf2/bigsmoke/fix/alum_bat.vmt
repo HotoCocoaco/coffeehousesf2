@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\painkiller_76\sf2\bigsmoke\fix\alum_bat"
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" ".1"	
+	"$phongfresnelranges"	"[0 0.8 1]"
+	"$halflambert" "1"
+}

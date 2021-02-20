@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/mentrillum/traps/beartrap/trap_m"
+	"$bumpmap" "models/mentrillum/traps/beartrap/trap_n"
+
+	"$phongexponenttexture" "models/mentrillum/traps/beartrap/trap_r"
+
+	$phong 1
+	$diffuseexp 1
+
+	$phongfresnelranges "[1 1 1]"
+	$phongboost 1
+	$phongexponent 16
+
+	"$surfaceprop" "metal"
+}

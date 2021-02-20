@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "The_Sniper_9/DoctorWho/Extras/Angels/AngelFace"
+	"$bumpmap" "The_Sniper_9/DoctorWho/Extras/Angels/AngelFace_NRM"
+	"$surfaceprop" "Rock"
+}

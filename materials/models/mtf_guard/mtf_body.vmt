@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mtf_guard/mtf_body"
+	"$bumpmap" "models/mtf_guard/body_bump"
+}

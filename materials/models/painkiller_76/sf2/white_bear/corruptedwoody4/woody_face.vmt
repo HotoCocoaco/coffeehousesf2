@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/white_bear/corruptedwoody4/woody_face"
+	"$bumpmap" "models/painkiller_76/sf2/white_bear/corruptedwoody4/woody_face_normal"
+}

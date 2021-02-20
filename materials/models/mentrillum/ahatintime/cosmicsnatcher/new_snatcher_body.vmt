@@ -1,0 +1,31 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\mentrillum\ahatintime\cosmicsnatcher\new_snatcher_body"
+	"$lightwarptexture" "models\mentrillum\ahatintime\cosmicsnatcher\lightwarp_game"
+
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" "0.1"	
+	"$phongtint" "[0 0 1]"
+
+	"$lightwarptexture" "models/mentrillum/ahatintime/cosmicsnatcher/lightwarp_game"
+	"$phongfresnelranges"	"[1 1 6]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"								
+	"$rimlightexponent" "5"									
+	"$rimlightboost" "100"		
+
+  	"$envmap"  "models\mentrillum/ahatintime/cosmicsnatcher/whitecube"
+     	"$envmapfresnel" "1"
+     	"$envmaptint" "[.1 .1 .1]"
+Proxies
+{
+	TextureScroll
+	{
+		texturescrollvar $basetextureTransform
+		texturescrollrate 5
+		texturescrollangle 90
+	}
+}			
+}

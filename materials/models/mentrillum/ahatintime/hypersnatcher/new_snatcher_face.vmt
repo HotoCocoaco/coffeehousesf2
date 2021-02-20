@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\mentrillum\ahatintime\hypersnatcher\new_snatcher_face"
+	"$lightwarptexture" "models\mentrillum\ahatintime\hypersnatcher\lightwarp_game"
+
+    	"$selfillum" 1
+    	"$selfIllumFresnel" 1
+	"$selfIllumFresnelMinMaxExp"	"[1 1 0]"
+	"$selfillumtint"	"[1.5 1.5 1.5]"
+
+
+}

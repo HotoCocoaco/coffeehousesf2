@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\mentrillum\ahatintime\hypersnatcher\new_snatcher_body"
+	"$lightwarptexture" "models\mentrillum\ahatintime\hypersnatcher\lightwarp_game"
+
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" "0.1"	
+	"$phongtint" "[1 1 0]"
+
+	"$lightwarptexture" "models/mentrillum/ahatintime/hypersnatcher/lightwarp_game"
+	"$phongfresnelranges"	"[1 1 5]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"								
+	"$rimlightexponent" "5"									
+	"$rimlightboost" "100"		
+
+  	"$envmap"  "models\mentrillum/ahatintime/hypersnatcher/whitecube"
+     	"$envmapfresnel" "1"
+     	"$envmaptint" "[.1 .1 .1]"			
+}

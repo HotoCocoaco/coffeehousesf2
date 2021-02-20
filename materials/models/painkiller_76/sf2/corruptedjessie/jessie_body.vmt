@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/corruptedjessie/jessie_body"
+	"$bumpmap" "models/painkiller_76/sf2/corruptedjessie/jessie_body_normals"
+}

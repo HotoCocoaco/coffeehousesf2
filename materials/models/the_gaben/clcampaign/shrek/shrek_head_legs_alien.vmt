@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/the_gaben/clcampaign/shrek/shrek_head_legs_alien"
+	"$bumpmap" "models/the_gaben/clcampaign/shrek/shrek_head_legs_normal"
+
+	$phong 1
+	$diffuseexp 1
+
+	$phongfresnelranges "[2.5 .9 1]"
+	$phongboost 1
+	$phongexponent 15
+	$phongtint "{50 50 50}"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "6"
+	"$rimlightboost" "2"	
+}

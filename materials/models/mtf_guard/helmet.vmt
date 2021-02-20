@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mtf_guard/helmet"
+	"$bumpmap" "models/mtf_guard/helmet_bump"
+}
