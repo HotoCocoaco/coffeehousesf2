@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/i6nis_2/toyfreddy/newfreddy_eyes1"
+
+	"$halflambert" "1"
+	"$nodecal" "1"
+	"$model" "1"
+
+	//"$lightwarptexture" "models/lightwarps/weapon_lightwarp"
+
+	"$envmap" env_cubemap
+	"$envmapcontrast" "0.3"
+	"$envmapsaturation" "0.7"
+	"$envmapmask"	"models/i6nis_2/toyfreddy/eyemask"
+}

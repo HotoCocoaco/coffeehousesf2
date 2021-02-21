@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/i6nis_2/bboy/bb_body"
+	"$bumpmap" "models/i6nis_2/shared/animatronic_exp"
+
+	"$halflambert" "1"
+	"$nodecal" "1"
+	"$model" "1"
+
+	"$lightwarptexture" "models/lightwarps/weapon_lightwarp"
+
+	"$phong" "1"
+	"$phongexponent" "3"
+	//"$phongexponenttexture" "models/i6nis_2/shared/animatronic_exp"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[0.1 0.5 1]"
+}

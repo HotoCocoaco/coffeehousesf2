@@ -1,0 +1,8 @@
+"unlitgeneric"
+{
+	"$basetexture" "models/i6nis_2/puppet/puppet_head"
+
+	"$nodecal" "1"
+	"$model" "1"
+
+}

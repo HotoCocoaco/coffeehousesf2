@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/slender/fnaf2/manglescare"
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "24"
+		 } 
+	} 
+}
