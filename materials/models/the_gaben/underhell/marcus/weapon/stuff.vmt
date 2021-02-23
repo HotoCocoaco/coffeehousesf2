@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/the_gaben/underhell/marcus/weapon/stuff"
+	"$basemapalphaphongmask" 1
+
+
+	"$phong" "1"
+	"$phongboost" "0.30"	
+	"$phongfresnelranges"	"[1 1 1]"
+	"$phongexponent" "100"
+	"$halflambert" "1"
+
+	"$phongalbedotint" "1"
+
+	$ambientocclusion 1
+	$ambientocclcolor "[0.8 0.8 1]"
+}

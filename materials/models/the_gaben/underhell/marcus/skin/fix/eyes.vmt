@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/the_gaben/underhell/marcus/skin/fix/eyes"
+	"$envmap" env_cubemap
+	"$envmapmask" "models/the_gaben/underhell/marcus/skin/fix/eyes_spec"
+	"$envmapcontrast" "0.25"
+}

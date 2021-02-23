@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/the_gaben/underhell/marcus/weapon/mesh-2"
+	"$bumpmap" "models/the_gaben/underhell/marcus/weapon/mesh-2_normal"
+	"$normalmapalphaenvmapmask" 1
+
+
+	"$phong" "1"
+	"$phongboost" "0.52"	
+	"$phongfresnelranges"	"[1 1 1]"
+	"$phongexponent" "40"
+	"$halflambert" "1"
+
+	"$phongalbedotint" "1"
+
+	$ambientocclusion 1
+	$ambientocclcolor "[0.8 0.8 1]"
+}

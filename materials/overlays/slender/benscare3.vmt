@@ -1,0 +1,14 @@
+"UnlitGeneric" 
+{ 
+	"$basetexture" "overlays/slender/benscare3"
+	
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "25"
+		 } 
+	} 
+}

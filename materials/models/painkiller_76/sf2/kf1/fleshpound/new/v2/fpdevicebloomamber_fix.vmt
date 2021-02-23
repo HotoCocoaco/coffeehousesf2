@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/kf1/fleshpound/new/v2/fpdevicebloomamber_fix"
+	"$additive" "1"
+	"$nocull" "1"
+	"$selfillum" "1"
+	"$phong" "1"
+	"$nodecal" "1"
+}

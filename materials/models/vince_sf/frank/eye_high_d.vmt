@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/vince_sf/frank/eye_high_d"
+	"$envmap" env_cubemap
+	"$envmapmask" "models/vince_sf/frank/eye_high_spec"
+	"$envmapcontrast" "0.3"
+}

@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/vince_sf/chriswalker/ID_3_D"
+$bumpmap "models/vince_sf/chriswalker/ID_3_N"
+$halflambert 0
+$phong 1
+$diffuseexp 1
+
+$phongfresnelranges "[.01 .15 1]"
+$phongtint "[0.8 0.8 1]"
+$phongboost 20
+$phongexponent 20
+$ambientocclusion 1
+$seamless_detail 1
+$seamless_scale ".005"
+
+}

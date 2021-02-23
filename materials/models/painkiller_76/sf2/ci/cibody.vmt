@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/ci/cibody"
+	"$bumpmap" "models/painkiller_76/sf2/ci/cibody_normals"
+}

@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/vince_sf/frank/id_3_dif"
+$bumpmap "models/vince_sf/frank/id_3_norm"
+$halflambert 0
+$phong 1
+$diffuseexp 1
+
+$phongfresnelranges "[.8 .5 .9 1]"
+$phongboost .3
+$phongexponent 40
+
+	"$rimlight" "1"						
+	"$rimlightexponent" "20"				
+	"$rimlightboost" ".4"
+
+}

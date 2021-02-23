@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture"   "models/alphonse/badbatteur/update/skin"
+	"$selfillum" "1"
+	"$selfillummask" "models/alphonse/badbatteur/update/glow"
+	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost" "0"
+               "$lightwarptexture" "models\lightwarps\hand_lightwarp"	
+	
+	"$phongfresnelranges"	"[.25 1 4]"
+	//"$basemapalphaphongmask" "1"
+}

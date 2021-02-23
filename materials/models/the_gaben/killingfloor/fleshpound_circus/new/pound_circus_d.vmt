@@ -1,0 +1,23 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/the_gaben/killingfloor/fleshpound_circus/new/pound_circus_d"
+	"$surfaceprop" "flesh"
+
+	"$bumpmap" "models/the_gaben/killingfloor/fleshpound_circus/new/pound_circus_n"
+
+	"$selfillummask" "models/the_gaben/killingfloor/fleshpound_circus/new/pound_circus_glow_yellow"
+	"$selfillum" 1
+
+	$phong 1
+	$diffuseexp 1
+	$forcebump 1
+
+	$phongfresnelranges "[.3 1 8]"
+	$phongboost 1.5
+	$phongexponent 25
+	$phongtint "{10 10 10}"
+
+	$ambientocclusion 1
+	$seamless_detail "1"
+	$seamless_scale "1"
+}

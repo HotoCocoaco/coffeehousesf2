@@ -1,0 +1,19 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/the_gaben/underhell/marcus/items/gasmask"
+        "$bumpmap" "models/the_gaben/underhell/marcus/items/gasmask_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$nocull" 1
+
+	"$phong" "1"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[1 1 1]"
+
+	"$phongexponent" "20"
+	"$halflambert" "1"
+
+	"$phongalbedotint" "1"
+	"$surfaceprop" "computer"
+}
+
+

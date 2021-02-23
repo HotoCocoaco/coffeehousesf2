@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/kf1/patriarch/new/gatling_d"
+$bumpmap "models/painkiller_76/sf2/kf1/patriarch/new/gatling_n"
+$halflambert 1
+$phong 1
+$diffuseexp 1
+
+$phongfresnelranges "[3.5 .9 1]"
+$phongboost .6
+$phongexponent 40
+$phongexponenttexture "models/painkiller_76/sf2/kf1/patriarch/new/gatling_s"
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/sin/quadralex/quadralex_body"
+	"$surfaceprop" "alienflesh"
+	"$bumpmap" "models/sin/quadralex/quadralex_body_normal"
+
+}

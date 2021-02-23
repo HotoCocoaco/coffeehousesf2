@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/kf1/fleshpound/new/v2/fleshpound_diff"
+$bumpmap "models/painkiller_76/sf2/kf1/fleshpound/new/v2/fleshpound_norm"
+$halflambert 0
+$phong 1
+$diffuseexp 1
+$selfillum "1"
+$selfillummask "models/painkiller_76/sf2/kf1//fleshpound/new/v2/fleshpound_glow_calm"
+$phongfresnelranges "[.5 .4 1]"
+$phongboost 0.6
+$phongexponent 42
+$phongexponenttexture "models/painkiller_76/sf2/kf1/fleshpound/new/v2/fleshpound_spec"
+}

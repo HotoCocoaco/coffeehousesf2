@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/the_gaben/underhell/marcus/skin/fix/eric_facemap"
+                "$bumpmap" "models/the_gaben/underhell/marcus/skin/fix/eric_facemap_normal"
+	"$phong" "1"
+	"$normalmapalphaenvmapmask" 1
+
+	"$phongexponent" 15
+	"$phongboost" "0.75"	
+	"$phongfresnelranges"	"[.25 1.25 6.5]"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+}

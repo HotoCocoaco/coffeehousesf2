@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/the_gaben/underhell/marcus/skin/fix/seal_body"
+	"$bumpmap" "models/the_gaben/underhell/marcus/skin/fix/seal_body_n"
+	"$normalmapalphaenvmapmask" 1
+
+
+	"$phong" "1"
+	"$phongboost" "0.52"	
+	"$phongfresnelranges"	"[1 1 1]"
+	"$phongexponent" "40"
+	"$halflambert" "1"
+
+	"$phongalbedotint" "1"
+
+	$ambientocclusion 1
+	$ambientoccltexture "models/the_gaben/underhell/marcus/skin/fix/seal_body_ao"
+	$ambientocclcolor "[0.8 0.8 1]"
+}

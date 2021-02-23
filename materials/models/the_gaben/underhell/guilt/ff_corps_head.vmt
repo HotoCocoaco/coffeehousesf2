@@ -1,0 +1,28 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/the_gaben/underhell/guilt/FF_Corps_Head"
+	"$surfaceprop" "flesh"
+	"$halflambert" 1
+	"$bumpmap" "models/the_gaben/underhell/guilt/ff_corps_head_normal"
+
+$phong 1
+$diffuseexp 1
+
+$phongfresnelranges "[1 2 1]"
+$phongboost 0.5
+$phongexponent 25
+
+	$phongtint "{74 68 61}"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "15"
+	"$rimlightboost" "0.55"	
+} 
+
+
+
+
+
+
+
+

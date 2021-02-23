@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/alphonse/ethre/new/fix/b"
+	"$bumpmap" "models/alphonse/ethre/new/fix/b_n"
+                "$selfillummask" "models/alphonse/ethre/new/fix/b_i"
+                "$selfillum" "1"
+                "$selfillumtint" "[6 6 6]"
+                 $phong 1
+	$phongboost 1.0
+	$phongexponent 3
+	$phongfresnelranges "[0 0.2 1]"
+                $ambientocclusion 1
+                $halflambert 1
+}
