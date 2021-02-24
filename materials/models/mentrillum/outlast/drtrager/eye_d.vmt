@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/mentrillum/outlast/drtrager/eye_d"
+
+	"$envmap" env_cubemap
+	"$envmapmask" "models/mentrillum/outlast/drtrager/eye_s"
+	"$envmaptint" "[91 29 27]"
+	"$envmapcontrast" "0.9"
+}

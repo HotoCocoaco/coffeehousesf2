@@ -1,0 +1,18 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/mentrillum/outlast/drtrager/id_3_d"
+
+	"$nocull" "1"
+$bumpmap "models/mentrillum/outlast/drtrager/id_3_n"
+$halflambert 0
+$phong 1
+$diffuseexp 1
+
+$phongfresnelranges "[.1 .15 1]"
+$phongtint "[1 0 0]"
+$phongboost 2
+$phongexponent 40
+$ambientocclusion 1
+$seamless_detail 1
+$seamless_scale ".005"
+}

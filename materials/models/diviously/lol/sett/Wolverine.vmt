@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture"	"models/diviously/lol/sett/Wolverine.vtf"
+	"$surfaceprop"	"Flesh"
+}

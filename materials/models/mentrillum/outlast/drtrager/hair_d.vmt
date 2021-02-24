@@ -1,0 +1,21 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/mentrillum/outlast/drtrager/hair_d"
+
+	"$alphatest" "1"
+	"$nocull" "1"
+
+$bumpmap "models/mentrillum/outlast/drtrager/hair_n"
+$halflambert 0
+$phong 1
+$diffuseexp 1
+
+$phongfresnelranges "[.4 .15 1]"
+$phongtint "[0.8 0.8 1]"
+$phongboost 0.9
+$phongexponent 10
+$ambientocclusion 1
+$seamless_detail 1
+$seamless_scale ".005"
+
+}

@@ -1,0 +1,18 @@
+ "VertexLitGeneric"
+{
+"$BasemapAlphaPhongMask"1
+"$baseTexture""models/diviously/osjinx/memphis/en_fmef_body_dif"
+"$bumpmap""models/diviously/osjinx/memphis/en_fmef_body_norm_l"
+
+"$detail""models/diviously/osjinx/memphis/en_fmef_body_emi"
+
+ "$detailblendfactor" "0.7"
+ "$detailblendmode" "6"
+$DETAILSCALE 1
+
+"$halflambert" "0"
+"$phongfresnelranges""[0.3 0.5 0.7]"
+
+"$phong""1"
+"$phongexponent""0.1 0.1 0.1"
+"$phongboost""0.1 0.1 0.1"

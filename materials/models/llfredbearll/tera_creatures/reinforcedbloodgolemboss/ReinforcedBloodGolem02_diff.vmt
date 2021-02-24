@@ -1,0 +1,19 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/llfredbearll/tera_creatures/reinforcedbloodgolemboss/ReinforcedBloodGolem02_diff"
+	"$bumpmap" "models/llfredbearll/tera_creatures/reinforcedbloodgolemboss/ReinforcedBloodGolem02_norm"
+	"$alphatest" "1"
+
+
+	$phong 1
+	$diffuseexp 1
+
+	$phongfresnelranges "[4 .9 1]"
+	$phongboost 1
+	$phongexponent 5
+	$phongtint "{120 0 0}"
+
+
+
+	"$surfaceprop" "rock"
+}

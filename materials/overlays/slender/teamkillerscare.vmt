@@ -1,0 +1,14 @@
+"UnlitGeneric" 
+{ 
+	"$basetexture" "overlays/slender/teamkillerscare"
+	
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "30"
+		 } 
+	} 
+}

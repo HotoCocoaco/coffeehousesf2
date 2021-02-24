@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"noobis\handsome_jack\face"
+	"$bumpmap" "noobis\handsome_jack\face_bump"
+
+	"$phong" "1"
+	"$phongboost" ".05"	
+	"$halflambert" "0"
+	"$ambientocclusion" "1"
+}
