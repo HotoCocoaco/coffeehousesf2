@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dbd/pyramidhead/mi_k20legs_01"
+	"$bumpmap" "models/dbd/pyramidhead/legsnorm1"
+}

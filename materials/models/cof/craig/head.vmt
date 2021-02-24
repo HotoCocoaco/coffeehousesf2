@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cof/craig/head"
+                "$bumpmap" "models/cof/craig/headnorm"
+}

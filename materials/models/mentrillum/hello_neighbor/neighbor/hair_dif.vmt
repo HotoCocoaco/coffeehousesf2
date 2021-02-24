@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mentrillum/hello_neighbor/neighbor/hair_dif"
+	"$bumpmap"    "models/mentrillum/hello_neighbor/neighbor/hair_normal"
+
+	$surfaceprop flesh
+ 	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.01 0.01 0.01]"
+	"$phongalbedotint" "1"
+}

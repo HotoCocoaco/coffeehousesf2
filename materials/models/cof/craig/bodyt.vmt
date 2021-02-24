@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cof/craig/bodyt"
+                "$bumpmap" "models/cof/craig/bodynorm"
+}

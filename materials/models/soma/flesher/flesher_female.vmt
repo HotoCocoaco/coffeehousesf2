@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture	"models/SOMA/Flesher/flesher_female"
+
+	$envmap		"env_cubemap"
+	$envmaptint	"[.1 .1 .1]"
+
+	$selfillum 1
+	$selfillummaskscale 10
+	$selfillumtint "[ 1.5 3.5 12 ]"
+	$selfillummask 	"models/SOMA/Flesher/flesher_female_illum"
+}
