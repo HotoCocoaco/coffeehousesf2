@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vince_sf/chaser/new/chaser_d"
+	"$bumpmap" "models/vince_sf/chaser/new/chaser_n"
+	"$selfillum" "1"
+	"$selfillummask" "models/vince_sf/chaser/new/chaser_i"
+	
+	$phong 1
+	$phongboost "3.2"
+	$phongtint "[.35 .20 1]"
+	$phongfresnelranges "[.1 .1 .1]"
+}

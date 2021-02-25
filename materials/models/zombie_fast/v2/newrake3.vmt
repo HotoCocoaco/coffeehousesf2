@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/zombie_fast/v2/newrake3"
+	"$bumpmap" "models/zombie_fast/v2/newrake_n"
+	"$selfillum" "1"
+	"$selfillummask" "models/zombie_fast/v2/newrake_g"
+	"$surfaceprop" "flesh"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" 15									
+	"$phongfresnelranges"	"[.1 .2 0]"
+}
