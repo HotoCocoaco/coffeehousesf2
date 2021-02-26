@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/horror_fast/corpse1"
+	"$bumpmap" "models/horror_fast/corpse_normal"
+	"$model" 1
+	"$halflambert" 1
+        "$selfillum" 1
+}

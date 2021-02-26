@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/zombies/zscient_h"
+	"$bumpmap" "models/zombies/zscient_hn"
+	"$surfaceprop" "flesh"
+	"$multipass" 1
+
+        $detail detail\noise_detail_01 // e.g. for brickwork, concrete...
+        $detailscale 7.74
+        $detailblendfactor 0.8
+        $detailblendmode 0									// Boost for ambient cube component of rim lighting
+}

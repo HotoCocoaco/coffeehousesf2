@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/zombies/zguard_b"
+        "$bumpmap" "models/zombies/zguard_b_normals"
+	"$model" 1
+	"$surfaceprop" "alienflesh"
+	"$multipass" 1
+
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" 33
+	"$phongfresnelranges" "[.18 .4 1]"
+	"$halflambert" "1"
+//	"$phongwarptexture"  "models/xenians/ichthyosaur/iridescence"
+
+	// Rim lighting parameters
+	"$rimlight" "1"				// To enable rim lighting (requires phong)
+	"$rimlightexponent" "60"             // Exponent for phong component of rim lighting
+	"$rimlightboost" ".5"	               // Boost for ambient cube component of rim lighting
+}

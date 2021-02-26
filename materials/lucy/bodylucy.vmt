@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Lucy\bodylucy"
+	"$bumpmap" "Lucy\LucyBodyNormalsMap"
+	"$model" 1
+	"$nocull" 1
+	//"$alphatest" 1
+
+}

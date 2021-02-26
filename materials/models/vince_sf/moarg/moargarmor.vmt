@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/vince_sf/moarg/moargarmor"
+	"$bumpmap" "models/vince_sf/moarg/moargarmor_n"
+	"$alphatest" "1"
+	"$nocull" "1"
+$halflambert 0
+$phong 1
+$diffuseexp 1
+
+$phongfresnelranges "[.25 .5 1]"
+$phongtint "[75 122 41]"
+$phongboost 1
+$phongexponent 80
+
+}

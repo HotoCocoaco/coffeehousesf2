@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/humans/female/femalx6_dress"
+	"$halflambert" 1
+	"$model" "1"
+	"$nocull" 1
+}
