@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/paranoia/paranoia"
+	"$surfaceprop" "flesh"
+	"$bumpmap" "models/paranoia/paranoia_n"
+
+	"$halflambert" "1"
+
+$phong 1
+$phongboost .001
+$phongexponent 2
+$phongtint "[.8 .5 .5]"
+$phongfresnelranges "[1 0 .05]"
+}

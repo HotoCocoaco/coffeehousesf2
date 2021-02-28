@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+    "$basetexture" "dookster/spookydh/woormycharles/body"
+    "$bumpmap" "dookster/spookydh/woormycharles/body_norm"
+
+	"$phong" "1"
+	"$phongexponent" "2"
+	"$phongboost" ".4"	
+	"$phongfresnelranges"	"[0.5 0.5 0.5]"
+	"$halflambert" "0"
+}
