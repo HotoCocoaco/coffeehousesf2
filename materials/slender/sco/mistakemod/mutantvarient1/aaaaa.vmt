@@ -1,0 +1,7 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "slender/sco/mistakemod/mutantvarient1/aaaaa"
+                $nocull 1
+	$alphatest 1
+	$diffuseexp 1
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/koz/lotr/gandalf/slow_cape"
+	"$bumpmap"  "models/koz/lotr/gandalf/slow_cape_bump"
+
+	"$nocull" 1
+
+ 	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost"	"15"
+	"$phongfresnelranges"	"[.15 .5 1]"
+}

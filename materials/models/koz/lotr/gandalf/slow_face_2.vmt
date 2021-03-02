@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/koz/lotr/gandalf/slow_face"
+	"$bumpmap"  "models/koz/lotr/gandalf/slow_face_bump"
+
+	"$translucent" 1
+}

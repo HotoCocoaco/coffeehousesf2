@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/koz/lotr/gandalf/slow_face"
+	"$bumpmap"  "models/koz/lotr/gandalf/slow_face_bump"
+
+ 	"$phong" "1"
+	"$phongexponent" "6"
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[.15 .5 1]"
+}

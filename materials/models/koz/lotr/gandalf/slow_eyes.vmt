@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/koz/lotr/gandalf/slow_face"
+	"$bumpmap"  "models/koz/lotr/gandalf/slow_face_bump"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.8 .9 1]" 
+	"$envmapcontrast" .5
+	"$envmapsaturation" 1
+}

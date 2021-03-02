@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/koz/lotr/gandalf/slow_hair"
+	"$bumpmap"  "models/koz/lotr/gandalf/slow_hair_bump"
+	
+	"$translucent" 1
+	"$nocull" 1
+
+}
