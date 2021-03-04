@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/i6nis/bonnie/bonnie_skeleton"
+     	"$bumpmap" "models/i6nis/bonnie/flat_normal"
+
+$halflambert 0
+$phong 1
+$diffuseexp 1
+
+	"$lightwarptexture" "models/lightwarps/weapon_lightwarp"
+
+
+$phongfresnelranges "[0.5 .9 1]"
+$phongboost .3
+$phongexponent 40
+}

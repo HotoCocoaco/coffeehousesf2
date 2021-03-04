@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/i6nis/chica/chicathing"
+     	"$bumpmap" "models/i6nis/chica/flat_normal"
+
+$halflambert 0
+$phong 1
+$diffuseexp 1
+
+	"$lightwarptexture" "models/lightwarps/weapon_lightwarp"
+
+
+$phongfresnelranges "[0.25 .9 1]"
+$phongboost .1
+$phongexponent 40
+}
