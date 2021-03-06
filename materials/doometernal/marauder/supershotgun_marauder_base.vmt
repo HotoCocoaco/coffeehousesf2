@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+"$basetexture" "DOOMEternal/Marauder/supershotgun_marauder_base"
+"$bumpmap" "DOOMEternal/Marauder/supershotgun_marauder_base_n2"
+"$surfaceprop" "flesh"
+"$translucent" "0"
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"	
+"$phongfresnelranges"	"[.3 1 7]"
+}

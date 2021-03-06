@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/konnie/jasonfix/x/JasonX_Body_D"
+	$bumpmap "models/konnie/jasonfix/x/JasonX_Body_NOR"
+	$phongexponenttexture "models/konnie/jasonfix/x/green"
+	
+	$nodecal "1"
+	$phong "1"
+	$phongboost "10"
+	$phongfresnelranges "[0.3 0.75 1.00]"
+	$phongalbedotint "1"
+	
+	$envmap "models/konnie/jasonfix/x/softsilver.hdr"
+	$normalmapalphaenvmapmask "1"
+	$envmapfresnel "1"
+	$envmaptint "[0.5 0.5 0.5]"
+	
+	$color2 "[0.2 0.2 0.2]"
+	$blendtintbybasealpha "1"
+	
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          .5	
+}

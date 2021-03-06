@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/konnie/jasonfix/savini/lower"
+	"$bumpmap" "models/konnie/jasonfix/savini/lower_n"
+                 "$halflambert" "1"
+                   $selfillum 1
+                   $selfillummask "models/konnie/jasonfix/savini/lower_e"
+	$nocull 1
+
+	$nodecal "1"
+	"$phong" "1"
+	"$phongboost" "2"
+                "$phongexponent" "45"	
+	"$phongfresnelranges"	"[.3 1 8]"
+
+	"$rimlight" "1"												
+	"$rimlightexponent" "3"											
+	"$rimlightboost" ".25"										
+	"$rimmask" "1" 
+}

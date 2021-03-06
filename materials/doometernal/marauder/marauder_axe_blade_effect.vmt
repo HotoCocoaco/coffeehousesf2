@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+"$basetexture" "DOOMEternal/Marauder/marauder_axe_blade_card_mask1"
+"$bumpmap" "DOOMEternal/Marauder/marauder_axe_blade_card_overall"
+"$surfaceprop" "flesh"
+"$nocull" "0"
+"$translucent" "1"
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"	
+"$phongfresnelranges"	"[.3 1 7]"
+}

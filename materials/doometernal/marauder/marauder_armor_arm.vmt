@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+"$basetexture" "DOOMEternal/Marauder/Marauder_armor_arm"
+"$bumpmap" "DOOMEternal/Marauder/Marauder_armor_arm_n2"
+"$surfaceprop" "flesh"
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"	
+"$phongfresnelranges"	"[.3 1 7]"
+}

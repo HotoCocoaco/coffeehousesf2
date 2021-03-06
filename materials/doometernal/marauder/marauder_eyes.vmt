@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+"$basetexture" "DOOMEternal/Marauder/Marauder_eyes"
+"$selfillum" "1"
+"$selfillummask" "DOOMEternal/Marauder/Marauder_eyes_e"
+$selfillumtint	"[10 10 10]"
+"$surfaceprop" "flesh"
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"	
+"$phongfresnelranges"	"[.3 1 7]"
+}

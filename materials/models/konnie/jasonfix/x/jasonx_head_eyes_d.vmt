@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/konnie/jasonfix/x/JasonX_Head_D"
+	$bumpmap "models/konnie/jasonfix/x/JasonX_Head_N"
+	
+	$nodecal "1"
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture     "dev/null"
+	$emissiveBlendBaseTexture	"models/konnie/jasonfix/x/JasonX_Head_eyes_D"
+	$emissiveBlendFlowTexture  "dev/null"
+	$emissiveBlendTint "[2.0 1.0 1.0]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[0 0]"	
+}

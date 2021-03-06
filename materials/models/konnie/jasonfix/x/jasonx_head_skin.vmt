@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/konnie/jasonfix/x/JasonX_Head_D"
+	$bumpmap "models/konnie/jasonfix/x/JasonX_Head_skin_N"
+
+	$nodecal "1"	
+	$phong "1"
+	$phongboost "1"
+    "$phongexponent"        "30"	
+	$phongfresnelranges "[0.3 0.75 1.00]"
+		
+	$color2 "[0.3 0.3 0.3]"
+	$blendtintbybasealpha "1"
+	
+	
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          .5		
+}

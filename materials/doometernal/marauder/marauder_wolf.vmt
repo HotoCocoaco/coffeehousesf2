@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+"$basetexture" "DOOMEternal/Marauder/Marauder_wolf"
+"$bumpmap" "DOOMEternal/Marauder/Marauder_wolf_n"
+"$selfillum" "1"
+"$selfillummask" "DOOMEternal/Marauder/Marauder_wolf_e"
+$selfillumtint	"[10 10 10]"
+"$surfaceprop" "flesh"
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"	
+"$phongfresnelranges"	"[.3 1 7]"
+}

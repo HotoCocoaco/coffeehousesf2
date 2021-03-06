@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+"$basetexture" "DOOMEternal/Marauder/marauder_axe_blade_mask1"
+"$bumpmap" "DOOMEternal/Marauder/marauder_axe_blade_overall"
+"$ambientocclusion" "0"
+"$selfillum" "1"
+"$selfillummask" "DOOMEternal/Marauder/crucible_blade_mask2"
+"$selfillumtint"	"[10 10 10]"
+"$surfaceprop" "flesh"
+"$nocull" 0
+
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"	
+"$phongfresnelranges"	"[.3 1 7]"
+}
