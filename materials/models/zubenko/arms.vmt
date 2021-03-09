@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+                "$basetexture" "models/zubenko/arms"
+	"$halflambert" 1
+}

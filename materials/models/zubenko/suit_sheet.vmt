@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/zubenko/suit_sheet"
+	"$bumpmap" "models/zubenko/suit_sheet_nrml"
+	"$halflambert" 1
+        "$nocull" "1"
+}

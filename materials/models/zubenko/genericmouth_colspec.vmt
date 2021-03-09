@@ -1,0 +1,15 @@
+vertexlitgeneric
+{
+$baseTexture "models/zubenko/genericmouth_colspec"
+$bumpmap "models/zubenko/genericmouth_norms"
+
+$nocull 0
+$halflambert 1
+$phong 1
+$phongboost "3"
+$phongexponent 5
+$phongtint "[.4 .2 .2]"
+$phongfresnelranges "[.2 .5 1]"
+
+
+}
