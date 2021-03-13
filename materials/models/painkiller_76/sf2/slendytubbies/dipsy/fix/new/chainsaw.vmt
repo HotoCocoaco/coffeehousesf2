@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/dipsy/fix/new/chainsaw"
+	"$bumpmap" "models/painkiller_76/sf2/slendytubbies/dipsy/fix/new/chainsaw-norm"
+	"$detail" "models/painkiller_76/sf2/slendytubbies/dipsy/fix/new/detail2"
+	"$phong" 1
+	"$phongboost"				1.0
+	"$phongfresnelranges"		"[0 0.5 1]"
+}

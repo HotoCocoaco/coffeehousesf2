@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/kf/scrake/scrake_diff"
+	"$bumpmap" "models/painkiller_76/sf2/kf/scrake/scrake_diff_bump"
+}

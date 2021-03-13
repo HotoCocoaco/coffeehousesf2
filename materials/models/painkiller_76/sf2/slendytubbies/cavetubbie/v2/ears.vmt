@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/cavetubbie/v2/ears"
+                "$bumpmap" "models/painkiller_76/sf2/slendytubbies/cavetubbie/v2/ears-map"
+	"$detail" "models/painkiller_76/sf2/slendytubbies/cavetubbie/v2/detail"	
+$halflambert 0
+$diffuseexp 1
+}

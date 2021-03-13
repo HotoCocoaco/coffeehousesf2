@@ -1,0 +1,6 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "slender/sco/theyhunger/zork/v2/ojo_luminoso"
+	"$selfillum" "1"
+	"$selfillummask" "slender/sco/theyhunger/zork/v2/ojo_luminoso"
+}

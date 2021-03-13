@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "models/painkiller_76/demon_hamster/sf2/corruptedspongebob/spongebob_diff"
+	$bumpmap "models/painkiller_76/demon_hamster/sf2/corruptedspongebob/spongebob_norm"
+	"$selfillum" "1"
+	"$selfillummask" "models/painkiller_76/demon_hamster/sf2/corruptedspongebob/spongebob_glow"
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" ".1"	
+	"$phongfresnelranges"	"[0 0.5 1]"
+	"$halflambert" "0"
+	$lightwarptexture "models/player/pyro/pyro_lightwarp"
+}

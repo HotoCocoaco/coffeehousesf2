@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/tinkytank/body2"
+	"$bumpmap" "models/painkiller_76/sf2/slendytubbies/tinkytank/body-map"
+	"$detail" "models/painkiller_76/sf2/slendytubbies/tinkytank/detail"
+	"$selfillum" "1"
+	"$selfillummask" "models/painkiller_76/sf2/slendytubbies/tinkytank/body-glow2"
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" ".1"	
+	"$phongfresnelranges"	"[0 0.5 1]"
+                "$phongtint" "[0.8 0 0.8]"
+	"$nocull" 1
+}

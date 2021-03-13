@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/cavetubbie/v2/eyes"
+	"$nocull" 1
+        "$selfillummask" "models/painkiller_76/sf2/slendytubbies/cavetubbie/v2/eyes-light"
+        "$selfillum" "1"
+        "$selfillumtint" "[5 5 5]"
+        $halflambert 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/kf/scrake/chainsaw_blade_diff"
+	"$bumpmap" "models/painkiller_76/sf2/kf/scrake/chainsaw_blade_diff_bump"
+	"$alphatest" "1"
+	"$nocull" "1"
+}

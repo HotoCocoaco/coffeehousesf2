@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/096old/096"
+	"$bumpmap" "models/painkiller_76/sf2/096old/096_norm"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" 0.3
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ 0.36 0.36 0.36 ]"
+	"$selfillum" "1"
+	"$selfillummask" "models/painkiller_76/sf2/096old/096_illum"
+
+	$halflambert 0
+	$phong 1
+
+	$phongfresnelranges "[.01 .15 1]"
+	$phongtint "[0.8 0.8 1]"
+	$phongboost 10
+	$phongexponent 2
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendyclaus/red_tentacle"
+	"$bumpmap" "models/painkiller_76/sf2/slendyclaus/slendyclaus_n"	
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongexponent" 50
+	"$phongboost"	"15"
+	"$phongfresnelranges"	"[0.5 0.5 0.5]"
+                "$phongtint" "[0.8 0 0]"
+	"$rimlight" "1"
+	"$rimlightexponent" "4"	
+	"$rimlightboost" ".5"	
+}

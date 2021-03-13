@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cof/simon/head_face"
+	"$bumpmap" "models/cof/simon/head_normal"
+	"$halflambert" "1"
+
+$phong 1
+$phongboost .001
+$phongexponent 2
+$phongtint "[.8 .5 .5]"
+$phongfresnelranges "[1 0 .05]"
+}

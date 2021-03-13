@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/gta5/Trevor/pants"
+	"$bumpmap" "models/painkiller_76/sf2/gta5/Trevor/pants_norm"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponenttexture" "models/painkiller_76/sf2/gta5/Shared/phongexp"
+	"$phongalbedotint" "5"
+	"$phongfresnelranges" "[.5 .5 .5]"
+	"$model" "1"
+}

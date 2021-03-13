@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/yd/shoes"
+	"$bumpmap"    "models/painkiller_76/sf2/yd/shoes_norm"
+}

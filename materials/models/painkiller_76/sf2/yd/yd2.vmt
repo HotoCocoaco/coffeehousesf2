@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/yd/yd2"
+	"$bumpmap" "models\effects\flat_normal" 
+
+ 	"$phong" "1"
+	"$phongexponent" "3"
+	"$phongboost"	"3"
+                "$seamless_detail" 1
+                "$seamless_scale" ".005"
+	"$phongfresnelranges" "[0.35 0.35 0.35]"
+                "$phongtint" "[0.120 0 0.120]"
+//Phong boost makes glitchy textures, if you wish to enable phong boost, remove all /'s from each line relating to it.
+//From Painkiller76: Textures are polished but I used default normal mapping because original one looked bad.
+}

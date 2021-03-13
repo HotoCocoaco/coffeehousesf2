@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+    $basetexture "models\painkiller_76\sf2\zombies\zombie4"
+    $bumpmap "models\painkiller_76\sf2\zombies\zombie4_norm"
+}

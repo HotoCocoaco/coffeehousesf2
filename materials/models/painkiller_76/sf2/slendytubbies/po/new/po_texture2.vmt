@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/po/new/po_texture2"
+	"$bumpmap" "models/painkiller_76/sf2/slendytubbies/po/new/po_texture-norm2"
+	"$detail" "models/painkiller_76/sf2/slendytubbies/po/new/detail"
+	"$detailscale" "2"
+                "$selfillummask" "models/painkiller_76/sf2/slendytubbies/po/new/po_texture-glow"
+                "$selfillum" "1"
+                "$selfillumtint" "[6 7 8]"
+                $phong 1
+	$phongboost 1
+	$phongexponent 1
+                 $diffuseexp 0
+                $halflambert 0
+	$phongexponenttexture "models/painkiller_76/sf2/slendytubbies/po/new/po_texture-spec"
+                $phongtint "[0.8 0 0]"
+                $seamless_detail 1
+                $seamless_scale ".005"
+	$phongfresnelranges "[0.35 0.35 0.35]"
+                $ambientocclusion 1
+	$AmbientOcclTexture "models/painkiller_76/sf2/slendytubbies/po/new/po_texture-ao" 
+	$AmbientOcclColor "[.6 .0 .0]" Default 0.60, 0.00, 0.0
+}

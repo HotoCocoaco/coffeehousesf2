@@ -1,0 +1,5 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "slender/sco/theyhunger/zork/flesh/flesh"
+	"$bumpmap" "slender/sco/theyhunger/zork/flesh/flesh_norm"
+}

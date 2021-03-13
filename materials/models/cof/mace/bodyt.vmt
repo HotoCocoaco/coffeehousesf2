@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cof/mace/bodyt"
+	"$bumpmap" "models/cof/mace/bodyt_norm"
+}

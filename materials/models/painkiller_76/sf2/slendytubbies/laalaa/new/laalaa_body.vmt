@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/laalaa/new/laalaa_body"
+	"$bumpmap" "models/painkiller_76/sf2/slendytubbies/laalaa/new/laalaa_body_norm"
+	"$detail" "models/painkiller_76/sf2/slendytubbies/laalaa/new/detail"
+	"$nocull" 1
+	$rimlight 1
+	$rimlightexponent 2
+	$rimlightboost .2
+}

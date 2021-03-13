@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+    $basetexture "models\painkiller_76\sf2\zombies\zombie2"
+    $bumpmap "models\painkiller_76\sf2\zombies\zombie2_norm"
+
+$selfillum  "1"
+$selfillummask "models\painkiller_76\sf2\zombies\zombie2_illum"
+$phong 1
+$phongboost .1
+$phongexponent 0.6
+$phongtint "[.8 .5 .5]"
+$phongfresnelranges "[1 0 .04]"
+}

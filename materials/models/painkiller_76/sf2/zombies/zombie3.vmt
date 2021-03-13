@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+    $basetexture "models\painkiller_76\sf2\zombies\zombie3"
+    $bumpmap "models\painkiller_76\sf2\zombies\zombie3_norm"
+
+$halflambert "1"
+$phong 1
+$phongboost .1
+$phongexponent 1
+$phongtint "[.8 .5 .5]"
+$phongfresnelranges "[1 0 .05]"
+}

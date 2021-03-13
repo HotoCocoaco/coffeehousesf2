@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/wilson/wilson"
+	"$bumpmap" "models\player\sniper\sniper_normal"
+}

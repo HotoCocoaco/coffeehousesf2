@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/phantom/body"
+	"$bumpmap" "models/painkiller_76/sf2/slendytubbies/phantom/body_norm"
+	"$detail" "models/painkiller_76/sf2/slendytubbies/phantom/detail"
+	"$nocull" 1
+                $phong 1
+	$phongboost 1.0
+	$phongexponent 5	
+	$phongfresnelranges "[0 0.5 1]"
+                $ambientocclusion 1
+                $halflambert 1
+	$rimlight 1
+	$rimlightexponent 2
+	$rimlightboost .2
+}

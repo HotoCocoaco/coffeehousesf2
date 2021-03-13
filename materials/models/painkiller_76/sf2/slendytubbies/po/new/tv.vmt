@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/po/new/tv"
+	"$bumpmap" "models/painkiller_76/sf2/slendytubbies/po/new/tv-norm"
+                "$selfillummask" "models/painkiller_76/sf2/slendytubbies/po/new/tv-spec"
+                "$selfillum" "1"
+                "$selfillumtint" "[1 1 1]"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" 30
+}
+}
+                $phong 1
+	$phongboost 1.0
+	$phongexponent 5	
+	$phongfresnelranges "[0 0.5 1]"
+	"$phongalbedotint" "1"
+}

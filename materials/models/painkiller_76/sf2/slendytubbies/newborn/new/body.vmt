@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/newborn/new/body"
+	"$bumpmap" "models/painkiller_76/sf2/slendytubbies/newborn/new/body_norm"
+	"$detail" "models/painkiller_76/sf2/slendytubbies/newborn/new/detail"
+	"$detailscale" "5"
+	"$detailblendfactor" .01
+	"$nocull" 1
+                $phong 1
+                $ambientocclusion 1
+                $halflambert 1
+}

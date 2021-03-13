@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\painkiller_76\sf2\metasniper\drug_sniper"
+	"$bumpmap"	"models\painkiller_76\sf2\metasniper\drug_sniper_normal"
+}

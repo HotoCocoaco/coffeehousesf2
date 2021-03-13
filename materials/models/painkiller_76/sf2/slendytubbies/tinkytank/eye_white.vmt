@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/tinkytank/eye_white"
+	"$selfillum" "1"
+}

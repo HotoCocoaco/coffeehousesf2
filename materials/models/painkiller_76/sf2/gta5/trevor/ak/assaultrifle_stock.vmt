@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/gta5/trevor/ak/assaultrifle_stock"
+	"$envmaptint" "[0.14 0.14 0.14]"
+	"$model" 1
+	"$phong" 1
+	"$phongboost" .01
+	"$rimlight" 1
+	"$rimlightexponent"       11
+	"$phongfresnelranges" "[1.2 3 8]"
+
+}

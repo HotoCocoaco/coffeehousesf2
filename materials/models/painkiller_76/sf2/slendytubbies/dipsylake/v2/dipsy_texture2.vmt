@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/dipsylake/v2/dipsy_texture2"
+	"$bumpmap" "models/painkiller_76/sf2/slendytubbies/dipsylake/v2/dipsy_texture-norm2"
+                "$detail" "models/painkiller_76/sf2/slendytubbies/dipsylake/v2/detail"
+                "$selfillummask" "models/painkiller_76/sf2/slendytubbies/dipsylake/v2/dipsy_glow"
+                "$selfillum" "1"
+                "$selfillumtint" "[5 6 7]"
+	"$nocull" "1"
+                 $phong 1
+                 $diffuseexp 1
+                $halflambert 0
+	$phongboost 1
+	$phongexponent 1
+	$phongfresnelranges "[0 0.3 0.2]"
+                $phongtint "[0 0.8 0]"
+                $seamless_detail 1
+                $seamless_scale ".005"
+}

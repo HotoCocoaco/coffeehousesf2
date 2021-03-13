@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/berserker/head"
+	"$bumpmap" "models/painkiller_76/sf2/slendytubbies/berserker/head_norm"
+	//"$detail" "models/painkiller_76/sf2/slendytubbies/berserker/detail"
+	"$nocull" 1
+                $phong 1
+	$phongboost 0.9
+	$phongexponent 4	
+	$phongfresnelranges "[0 0.3 1]"
+                $ambientocclusion 1
+                $halflambert 1
+	$rimlight 1
+	$rimlightexponent 2
+	$rimlightboost .2
+}

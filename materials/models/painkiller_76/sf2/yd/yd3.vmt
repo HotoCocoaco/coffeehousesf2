@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/yd/yd3"
+	"$bumpmap" "models\effects\flat_normal" 
+
+                 $phong 1
+                 $diffuseexp 1
+                $halflambert 0
+	$phongboost 1
+	$phongexponent 1
+	$phongfresnelranges "[0 0.3 0.2]"
+                $phongtint "[0.8 0 0.8]"
+                $seamless_detail 1
+                $seamless_scale ".005"
+}

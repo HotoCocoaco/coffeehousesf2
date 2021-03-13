@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/yd/underwear"
+	"$bumpmap"    "models/painkiller_76/sf2/yd/underwear_norm"
+	"$detail"    "models/painkiller_76/sf2/yd/detail"
+}

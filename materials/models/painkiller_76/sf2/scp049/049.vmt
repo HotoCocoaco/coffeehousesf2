@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/scp049/049"
+	"$bumpmap" "models/painkiller_76/sf2/scp049/049_norm"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/yd/chalice2"
+	"$bumpmap" "models\effects\flat_normal" 
+                "$Translucent" "1"  
+}

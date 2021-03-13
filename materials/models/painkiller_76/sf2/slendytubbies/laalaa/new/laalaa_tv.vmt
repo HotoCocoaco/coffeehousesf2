@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/laalaa/new/laalaa_tv"
+                "$selfillummask" "models/painkiller_76/sf2/slendytubbies/laalaa/new/laalaa_tv"
+                "$selfillum" "1"
+                "$selfillumtint" "[1 1 1]"
+}

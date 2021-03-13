@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/yeti/ears"
+                "$bumpmap" "models/painkiller_76/sf2/slendytubbies/yeti/ears_norm"
+	"$detail" "models/painkiller_76/sf2/slendytubbies/yeti/fur1_detail"
+	"$detailscale" "6"	
+	"$nodecal" 1
+                $phong 1
+	$phongboost 0.7
+	$phongexponent 5	
+	$phongexponenttexture "models/painkiller_76/sf2/slendytubbies/yeti/ears_spec"
+	$phongfresnelranges "[0 1 1]"
+                $ambientocclusion 1
+                $halflambert 1
+	$rimlight 1
+	$rimlightexponent 2
+	$rimlightboost .6
+}

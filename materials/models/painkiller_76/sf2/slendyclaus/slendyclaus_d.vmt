@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendyclaus/slendyclaus_d"
+	"$bumpmap" "models/painkiller_76/sf2/slendyclaus/slendyclaus_n"	
+	$model 1
+	$nocull 1
+	
+	$phong 1
+	$phongboost "5.2"
+                "$phongtint" "[0.8 0 0]"
+	$phongfresnelranges "[.1 .1 .1]"
+	
+	$ambientocclusion 1
+	$halflambert 1
+	$diffuseexp "2.5"
+	
+	"$rimlight" "1" 
+	"$rimlightexponent" "8.6" 
+	"$rimlightboost" "0.05"
+	"$rimmask" "0"
+}

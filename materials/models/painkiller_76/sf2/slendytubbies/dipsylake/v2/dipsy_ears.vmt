@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/dipsylake/v2/dipsy_ears"
+                "$bumpmap" "models/painkiller_76/sf2/slendytubbies/dipsylake/v2/dipsy_ears-map"
+                "$detail" "models/painkiller_76/sf2/slendytubbies/dipsylake/v2/detail"
+	"$nocull" "1"
+                 $phong 1
+                 $diffuseexp 0
+                $halflambert 0
+	$phongboost 1
+	$phongexponent 0.7
+	$phongfresnelranges "[0 0.3 0.2]"
+                $phongtint "[0 0.8 0]"
+                $seamless_detail 1
+                $seamless_scale ".005"
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cof/simon/map2"
+	"$bumpmap" "models\effects\flat_normal"
+	"$halflambert" "1"
+
+$phong 1
+$phongboost .05
+$phongexponent 9
+$phongtint "[.8 .5 .5]"
+$phongfresnelranges "[1 0 .05]"
+}

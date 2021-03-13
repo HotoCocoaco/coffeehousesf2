@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/cavetubbie/v2/brown_body"
+                "$bumpmap" "models/painkiller_76/sf2/slendytubbies/cavetubbie/v2/brown_body-map"
+	"$detail" "models/painkiller_76/sf2/slendytubbies/cavetubbie/v2/detail"	
+$halflambert 0
+$diffuseexp 1
+$ambientocclusion 1
+}

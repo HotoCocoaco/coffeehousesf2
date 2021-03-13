@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+    "$baseTexture" "models\painkiller_76\sf2\mark\hair"          
+    "$phong" "1" 
+    "$phongboost" "1" 
+    "$phongexponent" "25" 
+    "$phongfresnelranges"  "[.5 1.5 2]" 
+
+    "$rimlight" "1" 
+    "$rimlightexponent" "2" 
+    "$rimlightboost" "1.5" 
+    
+    "$ambientocclusion" 0
+    "$alphatest" "1"
+    "$nocull" 1       
+}
+        
