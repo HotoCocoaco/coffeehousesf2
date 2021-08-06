@@ -1,5 +1,15 @@
 # 咖啡厅暗鬼要塞内容版本同步
 
+## 如何使用
+
+使用 Git 克隆之后，将materials, models, sound这三个文件夹复制到你的tf/download下。
+
+有可能是这样子的目录。
+
+`X:\SteamLibrary\steamapps\common\Team Fortress 2\tf\download`
+
+然后重新进入服务器就解决了。
+
 ## 同步你的模型文件！
 
 你可以使用git来同步本仓库与你本地需要的文件！（仅包括模型、贴图和音效）
