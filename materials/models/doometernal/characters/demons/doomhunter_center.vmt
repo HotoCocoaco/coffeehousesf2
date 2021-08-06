@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/DOOMEternal\characters\Demons\doomhunter_center"
+"$bumpmap" "models/DOOMEternal\characters\Demons\doomhunter_center_n"
+
+   	"$surfaceprop" "metal"
+	"$phong" "1"
+	"$phongfresnelranges"	"[0.5 4.75 5]"
+	"$phongboost"	".2"
+	"$envmaptint"	"[.135 .135 .135]"
+	"$envmapfresnel"	"1.4"
+	"$normalmapalphaenvmapmask" 1
+	"$halflambert" "1"
+	"$ambientocclusion" "1"
+
+
+	"$phongexponenttexture" "models\DOOMEternal\characters\Demons\exponent"
+	"$cloakPassEnabled" 		"1"						
+	"$phongfresnelranges"	"[ .2 1.2 8]"	
+
+
+	"$nocull" "1"
+
+
+}

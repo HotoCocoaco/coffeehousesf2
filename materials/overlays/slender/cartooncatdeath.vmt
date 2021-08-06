@@ -1,0 +1,14 @@
+"UnlitGeneric" 
+{
+	"$basetexture" "overlays/slender/cartooncatdeath"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "30"
+		 } 
+	} 
+}

@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture 	models\rage\body\black.vtf
+	$surfaceprop 	flesh
+	$phong			1
+
+	
+}

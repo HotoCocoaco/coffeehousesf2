@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\daniao\matachuan/suit_sheet"
+	"$bumpmap" "models\daniao\matachuan/suit_sheet_nml"
+        "$nocull" "1"
+
+ 	"$model" "1"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "0.1"
+	"$phongexponent" 10
+	"$phongalbedotint" "0"								
+	"$phongfresnelranges"	"[0.1 0.1 0.1]"
+	"$rimlight" "1"									
+	"$rimlightexponent" "4"								
+	"$rimlightboost" "0.3"
+}

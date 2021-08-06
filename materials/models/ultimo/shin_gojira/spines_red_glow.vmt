@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ultimo/Shin_Gojira/Shin_Gojira"
+	"$bumpmap"     "models/ultimo/Shin_Gojira/Shin_Gojira_nm"
+	"$ambientocclusion" "1"
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$nocull" "1"
+
+	"$rimlight" "0"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "12.4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" ".5"										// Boost for ambient cube component of rim lighting
+
+	"$phong" "1"
+	"$phongexponent" 27
+	"$phongboost"	"0.5"
+	"$phongfresnelranges"	"[0.05 .5 1]"
+
+	"$detail"				"models/ultimo/Shin_Gojira/Shin_Gojira_red_glow3"
+	"$detailblendmode"		"5"
+	"$detailscale"			"1"
+
+}

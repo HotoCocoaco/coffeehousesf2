@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/slendytubbies/rickroll/rickroll"
+	"$bumpmap" "models/painkiller_76/sf2/slendytubbies/rickroll/rickroll_norm"
+}

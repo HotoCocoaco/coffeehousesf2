@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/hoovydundy/hoovy_body_v2"
+	"$bumpmap" "models/painkiller_76/sf2/hoovydundy/hoovy_body_norm"
+}

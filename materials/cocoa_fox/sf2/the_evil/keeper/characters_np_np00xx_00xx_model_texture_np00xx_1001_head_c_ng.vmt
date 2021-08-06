@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "cocoa_fox/sf2/the_evil/keeper/characters_np_np00xx_00xx_model_texture_np00xx_1001_head_c_ng_c"
+	"$bumpmap" "cocoa_fox/sf2/the_evil/keeper/characters_np_np00xx_00xx_model_texture_np00xx_1001_head_c_ng_n"
+
+"$phongexponenttexture" "cocoa_fox/sf2/the_evil/keeper/characters_np_np00xx_00xx_model_texture_np00xx_1001_head_c_ng_s"
+$phong 1
+"$phongboost" ".5"
+$PhongExponent 10
+"$phongfresnelranges" "[3 2 2]"
+"$ambientocclusion" "1"
+"$halflambert" "1"
+}

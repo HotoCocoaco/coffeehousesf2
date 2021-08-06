@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\daniao\matachuan/tiesandties"
+	"$bumpmap" "models/daniao\matachuan/normal"
+
+	"$model" "1"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "0.1"
+	"$phongexponent" 10
+	"$phongalbedotint" "0"								
+	"$phongfresnelranges"	"[0.1 0.1 0.1]"
+	"$rimlight" "1"									
+	"$rimlightexponent" "4"								
+	"$rimlightboost" "0.3"
+}

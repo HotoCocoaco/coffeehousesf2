@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/slender/beenspendingmostofmylifelivinginthegangstasparadise"
+	"$additive" "1"
+	"$color" "[0.05 0.05 0.05]"
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "90"
+		 } 
+	} 
+}
+

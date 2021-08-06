@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+    $basetexture "models/kaesar/grin/clothes"
+
+
+	"$phong"			"1"
+	"$phongboost"		".05"
+	"$phongexponent"		"50"
+	"$phongfresnelranges"	"[.8 .8 .6]"
+}

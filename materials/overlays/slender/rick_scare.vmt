@@ -1,0 +1,14 @@
+"UnlitGeneric" 
+{ 
+	"$basetexture" "overlays/slender/rick_scare"
+	
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "35"
+		 } 
+	} 
+}
