@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" 	"models/lrg/boss/lewis/darkpurple.vtf"
+	"$selfillum" 1
+
+	}

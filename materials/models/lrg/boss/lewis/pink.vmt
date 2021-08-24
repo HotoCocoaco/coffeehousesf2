@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" 	"models/lrg/boss/lewis/pink.vtf"
+"$selfillum" 1
+	}
