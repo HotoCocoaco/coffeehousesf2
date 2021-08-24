@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "freaknslender/sf2/tom/tom"
+	//"$translucent" 1
+                "$opaque" 1
+}
